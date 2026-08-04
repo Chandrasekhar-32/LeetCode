@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3731-find-missing-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3731-find-missing-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Counting Sort
 |  |
 | ------- |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 <!---LeetCode Topics End-->
