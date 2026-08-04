@@ -1,35 +1,31 @@
 class Solution {
     public String maximumTime(String time) {
-        StringBuilder sb = new StringBuilder(time);
+        char[] t = time.toCharArray();
 
-        // First hour digit
-        if (sb.charAt(0) == '?') {
-            if (sb.charAt(1) == '?' || sb.charAt(1) <= '3') {
-                sb.setCharAt(0, '2');
-            } else {
-                sb.setCharAt(0, '1');
-            }
+        // Hour first digit
+        if (t[0] == '?') {
+            if (t[1] == '?' || t[1] <= '3')
+                t[0] = '2';
+            else
+                t[0] = '1';
         }
 
-        // Second hour digit
-        if (sb.charAt(1) == '?') {
-            if (sb.charAt(0) == '2') {
-                sb.setCharAt(1, '3');
-            } else {
-                sb.setCharAt(1, '9');
-            }
+        // Hour second digit
+        if (t[1] == '?') {
+            if (t[0] == '2')
+                t[1] = '3';
+            else
+                t[1] = '9';
         }
 
-        // First minute digit
-        if (sb.charAt(3) == '?') {
-            sb.setCharAt(3, '5');
-        }
+        // Minute first digit
+        if (t[3] == '?')
+            t[3] = '5';
 
-        // Second minute digit
-        if (sb.charAt(4) == '?') {
-            sb.setCharAt(4, '9');
-        }
+        // Minute second digit
+        if (t[4] == '?')
+            t[4] = '9';
 
-        return sb.toString();
+        return new String(t);
     }
 }
