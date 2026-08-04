@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3731-find-missing-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3731-find-missing-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -66,4 +68,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
