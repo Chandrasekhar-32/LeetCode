@@ -1,22 +1,28 @@
 class Solution {
     public int convertTime(String current, String correct) {
+        char[] p = current.toCharArray();
+        char[] c = correct.toCharArray();
 
-        int cur = Integer.parseInt(current.substring(0, 2)) * 60
-                + Integer.parseInt(current.substring(3));
+        int cur = ((p[0] - '0') * 10 + (p[1] - '0')) * 60
+                + ((p[3] - '0') * 10 + (p[4] - '0'));
 
-        int cor = Integer.parseInt(correct.substring(0, 2)) * 60
-                + Integer.parseInt(correct.substring(3));
+        int cor = ((c[0] - '0') * 10 + (c[1] - '0')) * 60
+                + ((c[3] - '0') * 10 + (c[4] - '0'));
 
         int diff = cor - cur;
-        int ans = 0;
+        int cnt = 0;
 
-        int[] ops = {60, 15, 5, 1};
+        cnt += diff / 60;
+        diff %= 60;
 
-        for (int op : ops) {
-            ans += diff / op;
-            diff %= op;
-        }
+        cnt += diff / 15;
+        diff %= 15;
 
-        return ans;
+        cnt += diff / 5;
+        diff %= 5;
+
+        cnt += diff;
+
+        return cnt;
     }
 }
