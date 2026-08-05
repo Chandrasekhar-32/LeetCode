@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0006-zigzag-conversion) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Sliding Window
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Counting Sort
