@@ -1,20 +1,18 @@
 class Solution {
     public int smallestNumber(int n, int t) {
-        int i = n;
-
         while (true) {
-            StringBuilder sb = new StringBuilder(String.valueOf(i));
-
             int product = 1;
-            for (int j = 0; j < sb.length(); j++) {
-                product *= (sb.charAt(j) - '0');
+            int x = n;
+
+            while (x > 0) {
+                product *= (x % 10);
+                x /= 10;
             }
 
-            if (product % t == 0) {
-                return i;
-            }
+            if (product % t == 0)
+                return n;
 
-            i++;
+            n++;
         }
     }
 }
