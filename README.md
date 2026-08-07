@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0135-candy](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0135-candy) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3731-find-missing-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3731-find-missing-elements) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0135-candy) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
