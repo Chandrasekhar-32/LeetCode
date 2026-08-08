@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0135-candy](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0179-largest-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3731-find-missing-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3731-find-missing-elements) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0179-largest-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3731-find-missing-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3731-find-missing-elements) |
