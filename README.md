@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0009-palindrome-number) |
 | [2485-find-the-pivot-integer](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
