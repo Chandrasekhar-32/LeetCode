@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0135-candy](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0179-largest-number) |
+| [0846-hand-of-straights](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0846-hand-of-straights) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -21,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0846-hand-of-straights](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0846-hand-of-straights) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0179-largest-number) |
+| [0846-hand-of-straights](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0846-hand-of-straights) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0179-largest-number) |
+| [0846-hand-of-straights](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0846-hand-of-straights) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
