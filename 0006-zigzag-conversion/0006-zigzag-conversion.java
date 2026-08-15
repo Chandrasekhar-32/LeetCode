@@ -1,46 +1,39 @@
 class Solution {
     public String convert(String s, int numRows) {
-
-        // Special case
-        if(numRows == 1 || s.length() <= numRows) {
+        
+        if (numRows == 1 || numRows >= s.length()) {
             return s;
         }
 
-        // Create StringBuilder for each row
         StringBuilder[] rows = new StringBuilder[numRows];
 
-        for(int i = 0; i < numRows; i++) {
+        for (int i = 0; i < numRows; i++) {
             rows[i] = new StringBuilder();
         }
 
-        int currentRow = 0;
-        boolean goingDown = false;
+        int row = 0;
+        int direction = 1;
 
-        // Traverse characters
-        for(char ch : s.toCharArray()) {
+        for (int i = 0; i < s.length(); i++) {
+            
+            rows[row].append(s.charAt(i));
 
-            rows[currentRow].append(ch);
-
-            // Change direction
-            if(currentRow == 0 || currentRow == numRows - 1) {
-                goingDown = !goingDown;
+            if (row == 0) {
+                direction = 1;
+            } 
+            else if (row == numRows - 1) {
+                direction = -1;
             }
 
-            // Move row
-            if(goingDown) {
-                currentRow++;
-            } else {
-                currentRow--;
-            }
+            row += direction;
         }
 
-        // Combine all rows
-        StringBuilder result = new StringBuilder();
+        StringBuilder ans = new StringBuilder();
 
-        for(StringBuilder row : rows) {
-            result.append(row);
+        for (StringBuilder r : rows) {
+            ans.append(r);
         }
 
-        return result.toString();
+        return ans.toString();
     }
 }
