@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3731-find-missing-elements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1563-stone-game-v) |
 | [2485-find-the-pivot-integer](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0035-search-insert-position) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search Tree
 |  |
@@ -229,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
