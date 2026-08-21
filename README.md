@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [3310-remove-methods-from-project](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Prefix Sum
 |  |
