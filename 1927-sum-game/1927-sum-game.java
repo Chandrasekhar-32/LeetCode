@@ -1,38 +1,29 @@
 class Solution {
     public boolean sumGame(String num) {
-        int cnt = 0;
         int n = num.length();
 
-        int left = 0;
-        int right = 0;
-
-        int leftQ = 0;
-        int rightQ = 0;
+        int leftSum = 0, rightSum = 0;
+        int leftQ = 0, rightQ = 0;
 
         for (int i = 0; i < n; i++) {
             char c = num.charAt(i);
 
-            if (c == '?') {
-                cnt++;
-
-                if (i < n / 2) {
-                    leftQ++;
-                } else {
-                    rightQ++;
-                }
+            if (i < n / 2) {
+                if (c == '?') leftQ++;
+                else leftSum += c - '0';
             } else {
-                if (i < n / 2) {
-                    left += c - '0';
-                } else {
-                    right += c - '0';
-                }
+                if (c == '?') rightQ++;
+                else rightSum += c - '0';
             }
         }
 
-        if (cnt % 2 == 1) {
+        // Alice gets one extra move
+        if ((leftQ + rightQ) % 2 == 1) {
             return true;
         }
 
-        return 2 * (left - right) != 9 * (rightQ - leftQ);
+        // Alice wins unless Bob can perfectly balance both sides
+        return 2 * (leftSum - rightSum) !=
+               9 * (rightQ - leftQ);
     }
 }
