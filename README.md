@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0009-palindrome-number) |
 | [1510-stone-game-iv](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1927-sum-game) |
 | [2485-find-the-pivot-integer](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0179-largest-number](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0179-largest-number) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1927-sum-game](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1927-sum-game) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0846-hand-of-straights](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0846-hand-of-straights) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1927-sum-game](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1927-sum-game) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1510-stone-game-iv](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1927-sum-game) |
 ## Nim Game
 |  |
 | ------- |
