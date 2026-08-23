@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0179-largest-number](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0179-largest-number) |
+| [0257-binary-tree-paths](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1927-sum-game](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1927-sum-game) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [3310-remove-methods-from-project](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Prefix Sum
