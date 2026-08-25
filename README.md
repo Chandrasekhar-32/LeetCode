@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0070-climbing-stairs) |
 | [1510-stone-game-iv](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1872-stone-game-viii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0070-climbing-stairs) |
 | [1510-stone-game-iv](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1872-stone-game-viii) |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0042-trapping-rain-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
