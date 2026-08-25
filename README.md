@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Chandrasekhar-32/LeetCode/tree/master/1927-sum-game) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
