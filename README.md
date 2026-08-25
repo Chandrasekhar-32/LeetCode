@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0846-hand-of-straights) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
