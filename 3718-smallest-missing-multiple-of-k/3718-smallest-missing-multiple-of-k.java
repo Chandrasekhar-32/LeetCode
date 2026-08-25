@@ -6,6 +6,9 @@ class Solution {
             if(num*k==nums[i]){
                 num++;
             }
+            else if(num*k<nums[i]){
+                return num*k;
+            }
         }
         return num*k;
         
