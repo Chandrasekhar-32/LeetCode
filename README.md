@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0135-candy](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0135-candy) |
+| [0164-maximum-gap](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0846-hand-of-straights](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0846-hand-of-straights) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0846-hand-of-straights](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0846-hand-of-straights) |
@@ -308,4 +310,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0070-climbing-stairs) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
