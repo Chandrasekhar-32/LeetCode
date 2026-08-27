@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,16 +152,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting Sort
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
 |  |
