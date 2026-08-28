@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Chandrasekhar-32/LeetCode/tree/master/0061-rotate-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Chandrasekhar-32/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Chandrasekhar-32/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
 |  |
